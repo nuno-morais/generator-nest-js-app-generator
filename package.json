@@ -1,0 +1,17 @@
+{
+  "name": "generator-nest",
+  "version": "0.0.1",
+  "description": "",
+  "files": [
+    "generators",
+    "app",
+    "fullmodule"
+  ],
+  "keywords": [
+    "nest-generator",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  }
+}
